@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/spisakReci.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE listaRecci SYSTEM "spisakReci.dtd">
+
+    <listaRecci>
+    ...
+    </listaRecci>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT listaRecci (rec)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT rec (eng|srp)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT eng (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT srp (#PCDATA)>

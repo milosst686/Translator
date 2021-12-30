@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+<listaRecci>
+    <rec>
+        <eng>Win</eng>
+        <srb>Pobeda</srb>
+    </rec>
+    <rec>
+        <eng>End</eng>
+        <srb>Kraj</srb>
+    </rec>
+    <rec>
+        <eng>Root</eng>
+        <srb>Koren</srb>
+    </rec>
+    <rec>
+        <eng>Tree</eng>
+        <srb>Drvo</srb>
+    </rec>
+    <rec>
+        <eng>Morning</eng>
+        <srb>Jutro</srb>
+    </rec>
+    
+</listaRecci>
